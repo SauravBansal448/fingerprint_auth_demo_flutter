@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+
 //1. imported local authentication plugin
 import 'package:local_auth/local_auth.dart';
 
@@ -11,27 +12,30 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'Fingerprint Authentication'),
+      home: FingerPrintAuth(title: 'Fingerprint Authentication'),
     );
   }
 }
 
-class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
+class FingerPrintAuth extends StatefulWidget {
+  FingerPrintAuth({Key key, this.title}) : super(key: key);
   final String title;
 
   @override
-  _MyHomePageState createState() => _MyHomePageState();
+  _FingerPrintAuthState createState() => _FingerPrintAuthState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _FingerPrintAuthState extends State<FingerPrintAuth> {
   // 2. created object of localauthentication class
   final LocalAuthentication _localAuthentication = LocalAuthentication();
+
   // 3. variable for track whether your device support local authentication means
   //    have fingerprint or face recognization sensor or not
   bool _hasFingerPrintSupport = false;
+
   // 4. we will set state whether user authorized or not
   String _authorizedOrNot = "Not Authorized";
+
   // 5. list of avalable biometric authentication supports of your device will be saved in this array
   List<BiometricType> _availableBuimetricType = List<BiometricType>();
 
@@ -71,8 +75,8 @@ class _MyHomePageState extends State<MyHomePage> {
     try {
       authenticated = await _localAuthentication.authenticateWithBiometrics(
         localizedReason: "Authenticate for Testing", // message for dialog
-        useErrorDialogs: true,// show error in dialog
-        stickyAuth: true,// native process
+        useErrorDialogs: true, // show error in dialog
+        stickyAuth: true, // native process
       );
     } catch (e) {
       print(e);
@@ -105,8 +109,9 @@ class _MyHomePageState extends State<MyHomePage> {
                 "List of Biometrics Support: ${_availableBuimetricType.toString()}"),
             Text("Authorized : $_authorizedOrNot"),
             RaisedButton(
+              hoverColor: Colors.green,
               child: Text("Authorize Now"),
-              color: Colors.green,
+              color: Colors.blue,
               onPressed: _authenticateMe,
             ),
           ],

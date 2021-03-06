@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:local_auth] /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/build/local_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/71571fc08d035759f17e9fc7c18c4446/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5a0506d9d1e5b650de5799834321d487/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f98377a26047477d13d2c10dc526d426/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/c3a8e3e7ef34df991ca67fe284f85680/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/4590826ae7ef4a2fa530a65b66735684/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d64638e55126f780686f4b96cba1b30f/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/f541907424aa3bd7fa6c2958a3629bab/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/47409eadc31a9c3a2be222b32a5f4d45/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/21cc56bf54f7bc6e77ad72fca871f3bb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5046617fb9c468523924bf080277b905/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a53831bfb4ae45e732d481007f59110a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/cbf083348b7105e35316d12b5af44ae0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/2408d6d3e7d3b0c277db9ff5c07ceaf2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:2:5-51
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:5:5-73
+	android:name
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:5:22-71
+application
+ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from [androidx.core:core:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d64638e55126f780686f4b96cba1b30f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d64638e55126f780686f4b96cba1b30f/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/cbf083348b7105e35316d12b5af44ae0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/cbf083348b7105e35316d12b5af44ae0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d64638e55126f780686f4b96cba1b30f/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:8:9-49
+	android:icon
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:9:9-43
+	android:name
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:7:9-57
+activity#com.example.flutter_fingerprint_auth.MainActivity
+ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:10:9-28:20
+	android:launchMode
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:12:13-43
+	android:hardwareAccelerated
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:windowSoftInputMode
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:16:13-55
+	android:configChanges
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:14:13-144
+	android:theme
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:13:13-47
+	android:name
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:11:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:21:13-23:40
+	android:value
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:23:17-37
+	android:name
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:22:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:local_auth] /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/build/local_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/build/local_auth/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/71571fc08d035759f17e9fc7c18c4446/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/71571fc08d035759f17e9fc7c18c4446/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5a0506d9d1e5b650de5799834321d487/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/5a0506d9d1e5b650de5799834321d487/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f98377a26047477d13d2c10dc526d426/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/f98377a26047477d13d2c10dc526d426/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/c3a8e3e7ef34df991ca67fe284f85680/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/c3a8e3e7ef34df991ca67fe284f85680/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/4590826ae7ef4a2fa530a65b66735684/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/4590826ae7ef4a2fa530a65b66735684/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d64638e55126f780686f4b96cba1b30f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/d64638e55126f780686f4b96cba1b30f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/f541907424aa3bd7fa6c2958a3629bab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/f541907424aa3bd7fa6c2958a3629bab/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/47409eadc31a9c3a2be222b32a5f4d45/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/47409eadc31a9c3a2be222b32a5f4d45/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/21cc56bf54f7bc6e77ad72fca871f3bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/21cc56bf54f7bc6e77ad72fca871f3bb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5046617fb9c468523924bf080277b905/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5046617fb9c468523924bf080277b905/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a53831bfb4ae45e732d481007f59110a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/a53831bfb4ae45e732d481007f59110a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/cbf083348b7105e35316d12b5af44ae0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/cbf083348b7105e35316d12b5af44ae0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/2408d6d3e7d3b0c277db9ff5c07ceaf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/mobcoder/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/2408d6d3e7d3b0c277db9ff5c07ceaf2/AndroidManifest.xml:20:5-44
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/mobcoder/Documents/office/android/fingerprint_auth_demo_flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
